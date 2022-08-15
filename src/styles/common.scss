@@ -1,0 +1,4 @@
+// 将tab下面的线去掉
+.el-tabs__nav-wrap::after{
+  height: 0 !important; 
+}
